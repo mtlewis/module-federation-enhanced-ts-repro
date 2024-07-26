@@ -1,0 +1,13 @@
+{
+  "name": "module-federation-enhanced-ts-repro",
+  "version": "0.0.0-development",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@module-federation/enhanced": "^0.3.2",
+    "webpack": "^5.93.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
